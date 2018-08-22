@@ -1,0 +1,2 @@
+# Census-Data
+Started off as a research project as part of my internship and carried on as an independent project. This involves training the adult census data, which contains a combination of strings and ints, using machine learning in python and make predictions as to which payscale category they belong to depending on various attributes. This code currently produces a 77% accuracy for the predicted results for the test data.
